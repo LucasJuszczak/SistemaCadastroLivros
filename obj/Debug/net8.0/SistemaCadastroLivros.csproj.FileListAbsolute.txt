@@ -1,0 +1,15 @@
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/bin/Debug/net8.0/SistemaCadastroLivros
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/bin/Debug/net8.0/SistemaCadastroLivros.deps.json
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/bin/Debug/net8.0/SistemaCadastroLivros.runtimeconfig.json
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/bin/Debug/net8.0/SistemaCadastroLivros.dll
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/bin/Debug/net8.0/SistemaCadastroLivros.pdb
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.AssemblyInfoInputs.cache
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.AssemblyInfo.cs
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.sourcelink.json
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.dll
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/refint/SistemaCadastroLivros.dll
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.pdb
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/SistemaCadastroLivros.genruntimeconfig.cache
+/home/aluno/Documentos/GitHub/SistemaCadastroLivros/obj/Debug/net8.0/ref/SistemaCadastroLivros.dll
