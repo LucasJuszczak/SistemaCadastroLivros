@@ -1,5 +1,3 @@
-using SistemaCadastroLivros;
-
 namespace SistemaCadastroLivros;
 
 public abstract class Pessoa : IPessoa
